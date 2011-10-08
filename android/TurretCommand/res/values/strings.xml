@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Turret Command</string>
+	<string name="up_button">Up</string>
+	<string name="down_button">Down</string>
+	<string name="setting_host_title">Turret Server Host</string>
+	<string name="setting_port_title">Turret Server Port</string>
+	<string name="settings_label">Settings</string>
+	<string name="settings_server_host_dialog_title">Edit Turret Server Host</string>
+	<string name="settings_server_port_dialog_title">Edit Turret Server Port</string>
+	<string name="settings_server_host_dialog_message">Turret Server Host</string>
+	<string name="settings_server_port_dialog_message">Turret Server Port</string>
+	<string name="settings_category_network_title">Networking</string>
+	<string name="menu_item_title_settings">Settings</string>
+	<string name="settings_category_connection_title">Connection Type</string>
+	
+	<string-array name="connection_types">
+		<item>USB</item>
+		<item>Network</item>
+	</string-array>
+	
+	<string-array name="connection_types_values">
+		<item>usb</item>
+		<item>network</item>
+	</string-array>
+</resources>
